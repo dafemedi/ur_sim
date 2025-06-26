@@ -17,7 +17,9 @@
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
 
-  <export>
+ <export>
     <build_type>ament_cmake</build_type>
+    <!-- <gazebo_ros  gazebo_model_path = "/home/ws_moveit2/install/ur_sim/share/"/> -->
+    <!-- <gazebo_ros  gazebo_model_path = "/home/fra/ur_yt_ws/install/robotiq_description/share/"/> -->
   </export>
 </package>
